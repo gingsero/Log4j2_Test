@@ -1,0 +1,16 @@
+22:31:54.796 [main] DEBUG mr.huntlab.MainLog4j2 - MainLog4j2 main class debug message.
+22:31:54.798 [main] ERROR mr.huntlab.MainLog4j2 - MainLog4j2 main class error message.
+22:31:54.798 [main] INFO  mr.huntlab.MainLog4j2 - MainLog4j2 main class info message.
+22:31:54.798 [main] FATAL mr.huntlab.MainLog4j2 - MainLog4j2 main class fatal message.
+22:31:54.798 [main] WARN  mr.huntlab.MainLog4j2 - MainLog4j2 main class warn message.
+22:32:38.368 [main] DEBUG mr.huntlab.MainLog4j2 - MainLog4j2 main class debug message.
+22:32:38.369 [main] ERROR mr.huntlab.MainLog4j2 - MainLog4j2 main class error message.
+22:32:38.369 [main] INFO  mr.huntlab.MainLog4j2 - MainLog4j2 main class info message.
+22:32:38.370 [main] FATAL mr.huntlab.MainLog4j2 - MainLog4j2 main class fatal message.
+22:32:38.370 [main] WARN  mr.huntlab.MainLog4j2 - MainLog4j2 main class warn message.
+22:33:24.664 [main] DEBUG mr.huntlab.MainLog4j2 - MainLog4j2 main class debug message.
+22:33:24.665 [main] ERROR mr.huntlab.MainLog4j2 - MainLog4j2 main class error message.
+22:33:24.665 [main] INFO  mr.huntlab.MainLog4j2 - MainLog4j2 main class info message.
+22:33:24.665 [main] FATAL mr.huntlab.MainLog4j2 - MainLog4j2 main class fatal message.
+22:33:24.666 [main] TRACE mr.huntlab.MainLog4j2 - MainLog4j2 main class trace message.
+22:33:24.666 [main] WARN  mr.huntlab.MainLog4j2 - MainLog4j2 main class warn message.
